@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently a student in the September cohort of Makers Academy. Based in London, I used to be a corporate lobbyist before deciding to leave that role and persue something I really care about: software development. 
 
 <!--
 **samcolson4/samcolson4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
