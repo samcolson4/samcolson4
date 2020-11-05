@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently a student in the September cohort of Makers Academy. Based in London, I used to be a corporate lobbyist before deciding to leave that role and persue something I really care about: software development. 
 
-I am currently on the [Makers](https://makers.tech) pre-course, and in my spare time I'm building a [personal website](https://github.com/samcolson4/colsondesign).
+I am currently on the [Makers](https://makers.tech) course, where I have focussed on web development with Ruby using both the Rails and Sinatra framework. Some example projects can be seen on my profile.
 
 [![Sam's github stats](https://github-readme-stats.vercel.app/api?username=samcolson4)](https://github.com/samcolson4/github-readme-stats)
 
