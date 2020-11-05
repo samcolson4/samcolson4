@@ -3,6 +3,9 @@ I'm currently a student in the September cohort of Makers Academy. Based in Lond
 
 I am currently on the [Makers](https://makers.tech) course, where I have focussed on web development with Ruby using both the Rails and Sinatra framework. Some example projects can be seen on my profile.
 
+If you're an employer, please take a look at my CV [here](https://github.com/samcolson4/CV).
+
+
 [![Sam's github stats](https://github-readme-stats.vercel.app/api?username=samcolson4)](https://github.com/samcolson4/github-readme-stats)
 
 <!--
