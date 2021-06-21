@@ -3,8 +3,6 @@ I'm a recent graduate of the Makers Bootcamp. Based in London, I used to be a co
 
 I have recently finished the [Makers](https://makers.tech) coding bootcamp, where I focussed on web development with Ruby and JS using both the Rails and Sinatra frameworks. For my final project, I built an iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw), and the repo is [here](https://github.com/samcolson4/signposts-again).
 
-I am currently dusting off my JavaScript skills and updating my personal wesbsite, [built in Vue.JS](https://github.com/samcolson4/colson-design-v3).
-
 If you're an employer, please take a look at my CV [here](https://github.com/samcolson4/CV), or my [LinkedIn](http://linkedin.com/in/samcolson/).
 
 
